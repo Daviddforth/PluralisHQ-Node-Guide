@@ -8,10 +8,10 @@
 
 ### Hardware Requirements :
 
-* **CPU**   : 8++
-* **RAM**   : 32++ GB
-* **Disk**  : 100 GB+ NVME GB SDD
-* **GPU**   : 16GB Vram++
+
+* **GPU**  : Minimum 16GB VRAM  
+* **RAM**  : Minimum 32GB  
+* **Disk** : Minimum 80GB (required for Docker image)
 
 #### Rent a Server on Vast : Skip If You Can Run Locally
 
@@ -134,5 +134,5 @@ python3 -m http.server 8080
 - **You’re now contributing to Node0 training swarm** 🚀
 
 ---
-**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
+**Made with ❤️ by [David_dforth](https://x.com/David_dforth)**
 ---
